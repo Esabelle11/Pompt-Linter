@@ -3,6 +3,7 @@
 A Developer Experience (DX) tool built with the OpenAI Responses API and GPT models that transforms vague developer prompts into structured software specifications before generating structured project scaffolds.
 
 Instead of immediately generating code from a vague prompt, Prompt Linter performs an intelligent review, identifies missing information, and produces a structured specification for higher-quality code generation.
+[![Watch Intro](https://img.youtube.com/vi/vUmhLSYUOds/maxresdefault.jpg)](https://youtu.be/vUmhLSYUOds)
 
 ## Features
 
